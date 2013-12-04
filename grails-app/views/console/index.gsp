@@ -54,7 +54,7 @@
 <script type="text/javascript" charset="utf-8">
 window.gconsole = {
 	pluginContext: "${resource(plugin: 'console')}",
-	executeLink: "${createLink(action: 'execute')}"
+	executeLink: "console/execute"
 }
 </script>
 
